@@ -1,0 +1,12 @@
+<svg id="furniture" xmlns="http://www.w3.org/2000/svg" width="72.471" height="72.471" viewBox="0 0 72.471 72.471">
+  <g id="Group_19" data-name="Group 19">
+    <g id="Group_18" data-name="Group 18">
+      <path id="Path_9" data-name="Path 9" d="M70.992,32.538H44.37V1.479A1.479,1.479,0,0,0,42.891,0H1.479A1.479,1.479,0,0,0,0,1.479V70.992a1.479,1.479,0,0,0,1.479,1.479H40.672a1.479,1.479,0,0,0,1.479-1.479V66.555H59.9v4.437a1.479,1.479,0,0,0,1.479,1.479h5.176a1.479,1.479,0,0,0,1.479-1.479V66.555h.739a1.479,1.479,0,0,0,1.479-1.479v-24.4h.74a1.479,1.479,0,0,0,1.479-1.479V34.017A1.479,1.479,0,0,0,70.992,32.538ZM20.706,69.513H2.958V56.941H20.706Zm0-15.529H2.958V2.958H20.706ZM34.017,69.513H23.664V2.958H41.412v29.58H30.319a1.479,1.479,0,0,0-1.479,1.479v5.176a1.479,1.479,0,0,0,1.479,1.479H31.8v24.4a1.479,1.479,0,0,0,1.479,1.479h.739Zm5.176,0H36.975V66.555h2.218Zm25.882,0H62.857V66.555h2.218ZM67.294,63.6H34.756V53.244H67.294Zm0-13.311H34.756V40.672H67.294Zm2.218-12.571H31.8V35.5H69.513Z" fill="#f07444"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="4" height="3" transform="translate(49 44)" fill="#f07444"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="4" height="3" transform="translate(49 56)" fill="#f07444"/>
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="3" height="6" transform="translate(27 24)" fill="#f07444"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="3" height="6" transform="translate(15 24)" fill="#f07444"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="4" height="3" transform="translate(10 61)" fill="#f07444"/>
+    </g>
+  </g>
+</svg>
